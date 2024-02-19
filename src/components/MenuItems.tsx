@@ -7,13 +7,6 @@ export const MenuItems = [
     },
 
     {
-        title : "About",
-        url : "/about",
-        cName : "nav-links",
-        icon : "fa-solid fa-circle-info"
-    },
-
-    {
         title : "Kontak",
         url : "/kontak",
         cName : "nav-links",
@@ -21,15 +14,16 @@ export const MenuItems = [
     },
 
     {
-        title : "Service",
+        title : "Layanan",
         url : "/service",
         cName : "nav-links",
         icon : "fa-solid fa-briefcase"
     },
+
     {
-        title : "Sign Up",
-        url : "/",
+        title : "Tentang",
+        url : "/about",
         cName : "nav-links",
-        icon : "fa-solid fa-house"
-    }
+        icon : "fa-solid fa-circle-info"
+    },
 ]
