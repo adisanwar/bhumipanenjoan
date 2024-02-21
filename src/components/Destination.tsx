@@ -1,5 +1,5 @@
-import DestImg1 from "../assets/8.jpg";
-import DestImg2 from "../assets/9.jpg";
+// import DestImg1 from "../assets/8.jpg";
+// import DestImg2 from "../assets/9.jpg";
 // import DestImg3 from "../assets/10.jpg";
 // import DestImg4 from "../assets/1.jpg";
 import "../components/DestinationStyle.css"
