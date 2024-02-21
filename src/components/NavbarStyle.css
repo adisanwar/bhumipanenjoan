@@ -72,6 +72,7 @@ button:hover {
 .menu-icons {
     display: none;
 }
+
 @media screen and (max-width : 850px) {
     .NavbarItems {
         z-index: 99;
@@ -113,10 +114,10 @@ button:hover {
         transition: none;
     }
 
-    button {
+    /* button {
         display: none;
 
-    }
+    } */
 
     .nav-links-mobile {
         display: block;
