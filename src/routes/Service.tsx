@@ -1,17 +1,18 @@
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import AboutImg from "../assets/1.jpg";
+import AboutImg  from "../assets/7.jpg";
 
-function About() {
-    return (
+function Service() 
+{
+    return(
         <>
-            <Navbar />
+        <Navbar />
             <>
                 <Navbar />
                 <Hero
                     cName="hero-mid"
                     heroImg={AboutImg}
-                    title="Tentang Bhumi Panenjoan"
+                    title="Layanan"
 
                     btnClass="hide"
                 />
@@ -20,4 +21,4 @@ function About() {
     )
 }
 
-export default About;
+export default Service;

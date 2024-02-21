@@ -1,17 +1,18 @@
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import AboutImg from "../assets/1.jpg";
+import AboutImg  from "../assets/2.jpg";
 
-function About() {
-    return (
+function Contact() 
+{
+    return(
         <>
-            <Navbar />
+        <Navbar />
             <>
                 <Navbar />
                 <Hero
                     cName="hero-mid"
                     heroImg={AboutImg}
-                    title="Tentang Bhumi Panenjoan"
+                    title="Hubungi Kami"
 
                     btnClass="hide"
                 />
@@ -20,4 +21,4 @@ function About() {
     )
 }
 
-export default About;
+export default Contact;
