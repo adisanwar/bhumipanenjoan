@@ -19,7 +19,14 @@
 
 .Navbar-logo {
     color: #222;
-    font-size: 2rem;
+    /* font-size: 2rem; */
+    cursor: pointer;
+}
+
+.Navbar-logo img {
+    width: auto;
+    max-width: 30%;
+    height: auto;
     cursor: pointer;
 }
 
@@ -74,6 +81,7 @@ button:hover {
 
 .menu-icons {
     display: none;
+    margin-right: 20px;
 }
 
 @media screen and (max-width : 850px) {

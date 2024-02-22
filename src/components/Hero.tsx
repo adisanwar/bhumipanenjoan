@@ -1,4 +1,3 @@
-// import Navbar from "../components/Navbar";
 import "../components/HeroStyle.css"
 
 function Hero(props : any) {
