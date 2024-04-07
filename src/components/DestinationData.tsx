@@ -29,11 +29,3 @@ class DestinationData extends Component<DestinationDataProps> {
 }
 
 export default DestinationData;
-
-{/* <h2>{this.props.heading}</h2>
-<p>{this.props.text}</p>
-
- <div className="image">
-                    <img src={this.props.image1} alt="img" />
-                    <img src={this.props.image1} alt="img" />
-                </div>  */}

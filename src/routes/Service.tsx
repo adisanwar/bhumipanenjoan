@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import AboutImg  from "../assets/7.jpg";
+import AboutImg  from "../assets/sunrise1.jpg";
 import Footer from "../components/Footer";
 import Trip from "../components/Trip";
 
