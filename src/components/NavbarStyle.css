@@ -107,6 +107,11 @@ button:hover {
         transition: 0.3s ease-in-out;
         border-radius: 13px;
     }
+    .Navbar-logo img {
+        display: flex;
+        width: auto;
+        cursor: pointer;
+    }
 
     .nav-menu.active {
         left: 0;
