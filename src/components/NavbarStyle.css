@@ -17,6 +17,7 @@
     z-index: 9999;
 }
 
+
 .Navbar-logo {
     color: #222;
     /* font-size: 2rem; */
@@ -24,12 +25,13 @@
 }
 
 .Navbar-logo img {
+    display: flex;
     width: auto;
-    max-width: 30%;
-    height: auto;
+    max-width: 15%;
+    /* left: 0%; */
+    /* height: auto; */
     cursor: pointer;
 }
-
 .nav-menu {
     display: grid;
     grid-template-columns: repeat(6, auto );

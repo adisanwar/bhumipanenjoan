@@ -2,7 +2,7 @@ import TripData from "./TripData";
 import "./TripStyle.css";
 import Trip1 from "../assets/trip1.jpg";
 import Trip2 from "../assets/tripsalem.jpg";
-import Trip3 from "../assets/8.jpg";
+import Trip3 from "../assets/kopicapar.jpg";
 
 function Trip() {
   return (
