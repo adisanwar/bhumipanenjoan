@@ -109,6 +109,7 @@ button:hover {
     }
     .Navbar-logo img {
         display: flex;
+        height: auto;
         width: auto;
         cursor: pointer;
     }
