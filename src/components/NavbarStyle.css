@@ -139,6 +139,7 @@ button:hover {
         margin: auto;
         border-radius: 4px;
         width: 80%;
+        height: auto;
         background: #16a085;
         text-decoration: none;
         color: #fff;
