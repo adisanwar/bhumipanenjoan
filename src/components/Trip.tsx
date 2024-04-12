@@ -14,7 +14,7 @@ function Trip() {
           image={Trip1}
           heading="Camping Ground"
           text="Camping ground di Bhumi Panenjoan adalah tempat yang sempurna untuk menghabiskan malam di tengah keindahan alam yang mempesona. Dengan area luas yang dapat menampung lebih dari 50 tenda, pengunjung dapat menikmati suasana camping yang nyaman dan santai. Pemandangan indah yang terbentang di sekitar, ditambah dengan gemerlap bintang di langit malam, menciptakan pengalaman menginap yang tak terlupakan di bawah langit terbuka. Dari sinilah, pengunjung dapat merasakan kedekatan dengan alam dan menikmati momen-momen istimewa bersama keluarga dan teman-teman di Bhumi Panenjoan"
-          whatsappLink="http://wa.me/6282280442468"
+          whatsappLink="http://wa.me/6282280442468?text=Halo,%20saya%20ingin%20berkunjung%20ke%20Bhumi%20Panennjoan.%20Bisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20tentang%20lokasi,%20jam%20operasional,%20dan%20apakah%20perlu%20membuat%20reservasi%20sebelumnya?%20Terima%20kasih"
         />
 
         <TripData
