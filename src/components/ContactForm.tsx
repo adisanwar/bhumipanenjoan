@@ -10,7 +10,7 @@ function ContactForm() {
                 <input placeholder="Subject" type="text" name="" id="" />
                 <textarea placeholder="Mesage" name="" id="" cols={30} rows={10}></textarea>
                 <button>Kirim</button>
-            
+                <br />
                 
             </form>
         </div>
