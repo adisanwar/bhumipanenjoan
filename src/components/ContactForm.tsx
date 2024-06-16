@@ -1,6 +1,7 @@
 import "./ContactFormStyle.css";
 
 function ContactForm() {
+<<<<<<< HEAD
   return (
     <div className="from-container">
       <h1>Kirim Kami Pesan!</h1>
@@ -29,6 +30,22 @@ function ContactForm() {
       ></iframe>
     </div>
   );
+=======
+    return(
+        <div className="from-container">
+            <h1>Kirim Kami Pesan!</h1>
+            <form action="">
+                <input placeholder="Name" type="text" name="" id="" />
+                <input placeholder="Email" type="text" name="" id="" />
+                <input placeholder="Subject" type="text" name="" id="" />
+                <textarea placeholder="Mesage" name="" id="" cols={30} rows={10}></textarea>
+                <button>Kirim</button>
+                <br />
+                
+            </form>
+        </div>
+    )
+>>>>>>> 1e47453b8d45ac3275dae6752d72f0bc3670996d
 }
 
 export default ContactForm;
